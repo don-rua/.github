@@ -1,12 +1,48 @@
-## Hi there 👋
+## 👋 Welcome to the Don Rúa Website Organization
 
-<!--
+<img width="1267" height="230" alt="Don Rua Website Banner" src="https://github.com/user-attachments/assets/3fed8780-1646-4223-b918-56d57c302a63" />
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🕊️ About Us
+This organization develops and maintains the **official website of the Parroquia María Auxiliadora Don Rúa** — a digital space dedicated to community, faith, and technology.  
+Our goal is to connect parishioners, showcase activities, and provide easy access to services, news, and events.
+
+---
+
+### 🌐 Live Website
+👉 **[Visit donrua.org](https://salesianosdonrua.com/)** (production instance)
+
+---
+
+### ⚙️ Tech Stack
+Our ecosystem is designed with maintainability and scalability in mind:
+
+| Layer | Stack |
+|-------|--------|
+| **Frontend** | [Next.js 14](https://nextjs.org/), TypeScript, Tailwind CSS, SWR |
+| **CMS / Backend** | [Strapi 5](https://strapi.io/), GraphQL API |
+| **Database** | PostgreSQL (Managed) |
+| **Infra / Deploy** | Dokploy + Traefik Reverse Proxy |
+| **Payments Integration** | Serfinsa (Transactor API) |
+| **Design System** | Material Tailwind + shadcn/ui |
+| **Hosting** | Self-hosted VPS (Linux + Docker) |
+| **Monitoring** | Umami Analytics |
+
+📘 **[View full technical documentation →](https://github.com/don-rua/don-rua-docs)**
+
+---
+
+### 👩‍💻 Developer Generations
+Each year, new contributors and developers join our digital mission.  
+Click on any profile to view their GitHub!
+
+[![All Generations](https://don-rua.github.io/don-rua-teams/public/ALL-GENS.svg)](https://don-rua.github.io/don-rua-teams/public/ALL-GENS.svg)
+
+---
+
+### 🛠️ Maintained by
+**Don Rúa Development Team**  
+**Santa Cecilia School** 
+
+© Parroquia María Auxiliadora Don Rúa, El Salvador
