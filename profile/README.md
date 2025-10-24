@@ -27,7 +27,6 @@ Our ecosystem is designed with maintainability and scalability in mind:
 | **Payments Integration** | Serfinsa (Transactor API) |
 | **Design System** | Material Tailwind + shadcn/ui |
 | **Hosting** | Self-hosted VPS |
-| **Monitoring** | Umami Analytics |
 
 📘 **[View full technical documentation →](https://github.com/don-rua/don-rua-docs)**
 
