@@ -34,8 +34,6 @@ Our ecosystem is designed with maintainability and scalability in mind:
 
 ### 👩‍💻 Developer Generations
 Each year, new contributors and developers join our digital mission.  
-Click on any profile to view their GitHub!
-
 [![All Generations](https://don-rua.github.io/don-rua-teams/public/ALL-GENS.svg)](https://don-rua.github.io/don-rua-teams/public/ALL-GENS.svg)
 
 ---
