@@ -26,7 +26,7 @@ Our ecosystem is designed with maintainability and scalability in mind:
 | **Infra / Deploy** | Dokploy + Traefik Reverse Proxy |
 | **Payments Integration** | Serfinsa (Transactor API) |
 | **Design System** | Material Tailwind + shadcn/ui |
-| **Hosting** | Self-hosted VPS (Linux + Docker) |
+| **Hosting** | Self-hosted VPS |
 | **Monitoring** | Umami Analytics |
 
 📘 **[View full technical documentation →](https://github.com/don-rua/don-rua-docs)**
