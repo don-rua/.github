@@ -20,8 +20,8 @@ Our ecosystem is designed with maintainability and scalability in mind:
 
 | Layer | Stack |
 |-------|--------|
-| **Frontend** | [Next.js 14](https://nextjs.org/), TypeScript, Tailwind CSS, SWR |
-| **CMS / Backend** | [Strapi 5](https://strapi.io/), GraphQL API |
+| **Frontend** | [Next.js](https://nextjs.org/), TypeScript, Tailwind CSS |
+| **CMS / Backend** | [Strapi](https://strapi.io/), GraphQL API |
 | **Database** | PostgreSQL (Managed) |
 | **Infra / Deploy** | Dokploy + Traefik Reverse Proxy |
 | **Payments Integration** | Serfinsa (Transactor API) |
