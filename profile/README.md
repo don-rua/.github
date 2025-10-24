@@ -11,7 +11,7 @@ Our goal is to connect parishioners, showcase activities, and provide easy acces
 ---
 
 ### 🌐 Live Website
-👉 **[Visit donrua.org](https://salesianosdonrua.com/)** (production instance)
+👉 **[Visit](https://salesianosdonrua.com/)** (production instance)
 
 ---
 
